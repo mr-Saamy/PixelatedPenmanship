@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebonite on Pixelated Penmanship</title>
+    <link>//localhost:1313/tags/ebonite/</link>
+    <description>Recent content in Ebonite on Pixelated Penmanship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>inksandtech.cytoplast591@slmail.me (Aravind A)</managingEditor>
+    <webMaster>inksandtech.cytoplast591@slmail.me (Aravind A)</webMaster>
+    <copyright>© 2025 Aravind A</copyright>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ebonite/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PLP Jumbo Review</title>
+      <link>//localhost:1313/posts/plp-jumbo-review/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
+      <guid>//localhost:1313/posts/plp-jumbo-review/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/plp-jumbo-review/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

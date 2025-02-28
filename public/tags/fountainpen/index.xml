@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FountainPen on Pixelated Penmanship</title>
+    <link>//localhost:1313/tags/fountainpen/</link>
+    <description>Recent content in FountainPen on Pixelated Penmanship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>inksandtech.cytoplast591@slmail.me (Aravind A)</managingEditor>
+    <webMaster>inksandtech.cytoplast591@slmail.me (Aravind A)</webMaster>
+    <copyright>© 2025 Aravind A</copyright>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/fountainpen/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PLP Jumbo Review</title>
+      <link>//localhost:1313/posts/plp-jumbo-review/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
+      <guid>//localhost:1313/posts/plp-jumbo-review/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/plp-jumbo-review/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Click Retro Review</title>
+      <link>//localhost:1313/posts/click-retro-review/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <author>inksandtech.cytoplast591@slmail.me (Aravind A)</author>
+      <guid>//localhost:1313/posts/click-retro-review/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/click-retro-review/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
